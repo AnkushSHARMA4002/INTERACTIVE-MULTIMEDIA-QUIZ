@@ -11,7 +11,7 @@ The **Interactive Multimedia Quiz System** is a web-based application designed t
 * **Gamified Logic:** Scoring and progress tracking to enhance retention.
 
 ## 🛠️ Tech Stack
-* **Frontend:** HTML5, CSS3 (Advanced Animations), JavaScript (ES6+)
-* **Backend:** Python (Logic & Data Handling)
+* **Frontend:** HTML, CSS, JavaScript 
+* **Backend:** Python 
 * **Media Processing:** Native Browser APIs for Audio/Video synchronization.
 
